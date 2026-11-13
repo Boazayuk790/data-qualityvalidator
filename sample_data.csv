@@ -1,7 +1,17 @@
-id,name,age,email,score
-1,John Doe,28,john@example.com,85
-2,Jane Smith,,jane@example.com,92
-3,John Doe,28,john@example.com,85
-4,Bob,150,bob@invalid,70
-5,,22,alice@example.com,-5
-6,Charlie,35,charlie@example.com,88
+id,name,age,salary,score,department,country,signup_date
+1,Amina,29,52000,88.5,Sales,Nigeria,2024-01-15
+2,Chidi,34,61000,92.0,Engineering,Nigeria,2024-02-03
+3,Funke,41,58000,79.5,Marketing,Nigeria,2024-02-10
+4,Tunde,,49000,85.0,Sales,Nigeria,2024-03-01
+5,Ngozi,38,67000,90.5,Engineering,Nigeria,2024-03-12
+6,Emeka,27,45000,-5.0,Support,Nigeria,2024-03-20
+7,Bisi,52,72000,81.0,Engineering,Nigeria,2024-04-02
+8,Yusuf,31,54000,87.5,Sales,Nigeria,
+9,Zainab,45,63000,93.0,Marketing,Nigeria,2024-04-18
+10,Ola,36,59000,84.0,Support,Nigeria,2024-05-05
+10,Ola,36,59000,84.0,Support,Nigeria,2024-05-05
+11,Kemi,430,57000,89.0,Sales,Nigeria,2024-05-21
+12,Ife,33,-48000,86.5,Support,Nigeria,2024-06-02
+13,Sade,40,64000,91.0,Engineering,Nigeria,2024-06-14
+14,Dayo,28,2500000,88.0,Marketing,Nigeria,2024-07-01
+15,Lola,35,60000,,Sales,Nigeria,2024-07-19
